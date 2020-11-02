@@ -6,4 +6,6 @@ Esta es una linea de codigo agregada por el usuario prrotruste, ademas el colabo
 
 Master 1
 
+Master 2
+
 Este es un cambio con checkout
