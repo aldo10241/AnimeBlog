@@ -2,6 +2,6 @@ Mi nombre es Aldo Uriel
 
 Mi cumpleaños es el 21 de Julio de 1999
 
-Esta es una linea de codigo agregada por el usuario prrotruste
+Esta es una linea de codigo agregada por el usuario prrotruste, ademas el colabora con este proyecto Open Source
 
 Este es un cambio con checkout
